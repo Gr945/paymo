@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paymo/static/css/main.0f9a48b5.css",
+    "main.js": "/paymo/static/js/main.07e22a17.js",
+    "index.html": "/paymo/index.html",
+    "main.0f9a48b5.css.map": "/paymo/static/css/main.0f9a48b5.css.map",
+    "main.07e22a17.js.map": "/paymo/static/js/main.07e22a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9a48b5.css",
+    "static/js/main.07e22a17.js"
+  ]
+}
