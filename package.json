@@ -1,5 +1,6 @@
 {
   "name": "paymo",
+  "homepage": "https://gr945.github.io/paymo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
